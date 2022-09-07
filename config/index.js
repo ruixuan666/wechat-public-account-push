@@ -33,9 +33,9 @@ export const config = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "XPXIoB7PauomFcUaT1CHTufxg2VPY_v8Z-gZ39Mo_cU",
       // 所在省份
-      province: "伦敦",
+      province: "甘肃",
       // 所在城市
-      city: "伦敦",
+      city: "兰州",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://s.weibo.com/top/summary/"
     }, 
@@ -65,9 +65,9 @@ export const config = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "伦敦",
+  PROVINCE: "甘肃",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "伦敦",
+  CITY: "兰州",
 
   /** 重要节日相关 */
 
